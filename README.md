@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
 
@@ -12,11 +12,10 @@
 
    
   
+- 🌱 멋쟁이사자처럼 FE school (21/10/29 ~)
 
-- 🔭velog : https://velog.io/@yeah_silver  
-  
-
-- 🌱 Github : https://github.com/yeeSilver  
+- 💬 velog : https://velog.io/@yeah_silver   
+- 💬 Github : https://github.com/yeeSilver  
   
 
 - 🐛 Interested in : CSS animation, Three.js   
