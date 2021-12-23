@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>  
   
 
@@ -13,7 +13,7 @@
    
   
 
-- 🔭velog : https://velog.io/@mogja  
+- 🔭velog : https://velog.io/@yeah_silver  
   
 
 - 🌱 Github : https://github.com/yeeSilver  
@@ -126,7 +126,7 @@
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 - 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -136,4 +136,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
