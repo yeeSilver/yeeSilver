@@ -9,17 +9,15 @@
 ### <div align="center">Front End 개발자를 꿈꾸며 열심히 공부하고 있습니다
 </div>  
   
-
+- 💬 velog : https://velog.io/@yeah_silver   
+- 💬 Github : https://github.com/yeeSilver 
+- 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 JavaScript 핵심 개념](https://ridibooks.com/books/2773000055)
+- 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 GitHub 핵심 개념](https://ridibooks.com/books/2773000054?_s=search&_q=%EC%95%8C%EC%95%84%EC%84%9C+%EC%9E%98+%EB%94%B1+%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0+%EC%84%BC%EC%8A%A4%EC%9E%88%EA%B2%8C+%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94&_rdt_sid=search&_rdt_idx=0)
    
-  
+- 🌱 멋쟁이사자처럼 React (22/02/09 ~)
 - 🌱 멋쟁이사자처럼 FE school (21/10/29 ~)
 
-- 💬 velog : https://velog.io/@yeah_silver   
-- 💬 Github : https://github.com/yeeSilver  
-  
-
-- 🐛 Interested in : CSS animation, Three.js   
-  
+- 🐛 Interested in : CSS animation, Three.js, React
 
 - ⚡ Fun: 나는 능이 버섯을 넘어서 능히 할 수 있다!  
   
@@ -77,9 +75,9 @@
 <a href="https://github.com/https://github.com/yeeSilver" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/ye_silver12/" target="_blank">
+<!-- <a href="https://instagram.com/https://www.instagram.com/ye_silver12/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
   
 
