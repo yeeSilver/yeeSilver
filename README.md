@@ -37,10 +37,7 @@
 
 
 ## Connect with me  
-<div align="center">
-💬 velog : https://velog.io/@yeah_silver <br/>
-💬 Github : https://github.com/yeeSilver 
-</div>  
+
   
 <div align="center">
 <img src="https://img.shields.io/badge/velog-black?style=for-the-badge&logo=velog&logoColor=white"/>
