@@ -1,23 +1,21 @@
-<div align="center">
+<!-- <header align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</header>   -->
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World🍎%20&fontSize=70&animation=scaleIn&desc=I'm%20YEEUN%20AN&descAlign=60&descAlignY=60&theme=radical) -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=Hello%20World🍎%20&fontSize=50&animation=fadeIn&desc=I'm%20YEEUN%20AN&descAlign=50&descAlignY=53&fontColor=ffffff&fontAlignY=36)
   
 
-# <div align="center">🍎I'm Yeeun An🐛 </div>  
+<!-- <div align="center"> 협업하기 좋은 개발자가 되기 위해 고민하고 노력합니다.
+</div>   -->
   
 
-### <div align="center">Front End 개발자를 꿈꾸며 열심히 공부하고 있습니다
-</div>  
-  
-- 💬 velog : https://velog.io/@yeah_silver   
-- 💬 Github : https://github.com/yeeSilver 
 - 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 JavaScript 핵심 개념](https://ridibooks.com/books/2773000055)
 - 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 GitHub 핵심 개념](https://ridibooks.com/books/2773000054?_s=search&_q=%EC%95%8C%EC%95%84%EC%84%9C+%EC%9E%98+%EB%94%B1+%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0+%EC%84%BC%EC%8A%A4%EC%9E%88%EA%B2%8C+%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94&_rdt_sid=search&_rdt_idx=0)
    
-- 🌱 멋쟁이사자처럼 React (22/02/09 ~)
-- 🌱 멋쟁이사자처럼 FE school (21/10/29 ~)
-
-- 🐛 Interested in : CSS animation, Three.js, React
+- 🌱 멋쟁이사자처럼 React (22/02/09 ~ 22/04/10)
+- 🌱 멋쟁이사자처럼 FE school (21/10/29 ~ 22/02/01)
 
 - ⚡ Fun: 나는 능이 버섯을 넘어서 능히 할 수 있다!  
   
@@ -25,66 +23,31 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+## My Tech Stack 
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Sass](https://img.shields.io/badge/-Sass-ff69b4?style=for-the-badge&logo=sass)
+![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![StyledComponents](https://img.shields.io/badge/-StyledComponents-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 <br/>  
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/yeeSilver" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://instagram.com/https://www.instagram.com/ye_silver12/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>   -->
+💬 velog : https://velog.io/@yeah_silver <br/>
+💬 Github : https://github.com/yeeSilver 
 </div>  
   
-
+<div align="center">
+<img src="https://img.shields.io/badge/velog-black?style=for-the-badge&logo=velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white"/>
+</div>  
   
   
-
-<br/>  
 
 
 ## Github Stats  
@@ -95,30 +58,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
