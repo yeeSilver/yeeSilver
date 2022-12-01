@@ -1,8 +1,3 @@
-<!-- <header align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</header>   -->
-<!-- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World🍎%20&fontSize=70&animation=scaleIn&desc=I'm%20YEEUN%20AN&descAlign=60&descAlignY=60&theme=radical) -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=200&section=header&text=Hello%20World🍎%20&fontSize=50&animation=fadeIn&desc=I'm%20YEEUN%20AN&descAlign=50&descAlignY=53&fontColor=ffffff&fontAlignY=36)
   
@@ -56,8 +51,6 @@
 
 
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <!-- Here are some ideas to get you started:
 - 👋
