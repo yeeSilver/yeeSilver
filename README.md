@@ -35,8 +35,15 @@
 
   
 <div align="center">
-<img src="https://img.shields.io/badge/velog-black?style=for-the-badge&logo=velog&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/velog-black?style=for-the-badge&logo=velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white"/> -->
+
+[![velog](https://img.shields.io/badge/velog-black?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@yeah_silver)
+
+[![github](https://img.shields.io/badge/github-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yeeSilver)
+
+  
+
 </div>  
   
   
