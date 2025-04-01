@@ -5,15 +5,15 @@
 <!-- <div align="center"> 협업하기 좋은 개발자가 되기 위해 고민하고 노력합니다.
 </div>   -->
   
-
-# - 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 JavaScript 핵심 개념](https://ridibooks.com/books/2773000055)
-# - 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 GitHub 핵심 개념](https://ridibooks.com/books/2773000054?_s=search&_q=%EC%95%8C%EC%95%84%EC%84%9C+%EC%9E%98+%EB%94%B1+%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0+%EC%84%BC%EC%8A%A4%EC%9E%88%EA%B2%8C+%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94&_rdt_sid=search&_rdt_idx=0)
+<!--
+ - 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 JavaScript 핵심 개념](https://ridibooks.com/books/2773000055)
+ - 📑 [알아서 잘 딱 깔끔하고 센스있게 정리하는 GitHub 핵심 개념](https://ridibooks.com/books/2773000054?_s=search&_q=%EC%95%8C%EC%95%84%EC%84%9C+%EC%9E%98+%EB%94%B1+%EA%B9%94%EB%81%94%ED%95%98%EA%B3%A0+%EC%84%BC%EC%8A%A4%EC%9E%88%EA%B2%8C+%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94&_rdt_sid=search&_rdt_idx=0)
    
-# - 🌱 멋쟁이사자처럼 React (22/02/09 ~ 22/04/10)
-# - 🌱 멋쟁이사자처럼 FE school (21/10/29 ~ 22/02/01)
+ - 🌱 멋쟁이사자처럼 React (22/02/09 ~ 22/04/10)
+ - 🌱 멋쟁이사자처럼 FE school (21/10/29 ~ 22/02/01)
 
-# - ⚡ Fun: 나는 능이 버섯을 넘어서 능히 할 수 있다!  
-  
+ - ⚡ Fun: 나는 능이 버섯을 넘어서 능히 할 수 있다!  
+-->
 
 <br/>  
 
